@@ -1,0 +1,14 @@
+{
+	"header":{
+		"isLoggedIn": true,
+		"userName": "Alice6",
+		"role":"bride",
+		"bridesmaid_isDressOrdered":true,
+		"bride_isBridalSuiteFinished":true,
+		"eventDate": "January 27, 2019"
+	},
+	"body":{
+		"selectedDress": ["Aidan"],
+		"brideName": "Tanya"
+	}
+}
