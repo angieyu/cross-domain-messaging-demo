@@ -1,10 +1,10 @@
 {
 	"header":{
 		"isLoggedIn": true,
-		"userName": "Alice6",
-		"role":"bride",
+		"userName": "Mary",
+		"role":"bridesmaid",
 		"bridesmaid_isDressOrdered":true,
-		"bride_isBridalSuiteFinished":true,
+		"bride_isBridalSuiteFinished":false,
 		"eventDate": "January 27, 2019"
 	},
 	"body":{

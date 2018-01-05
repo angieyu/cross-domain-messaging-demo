@@ -1,7 +1,7 @@
 {
 	"header":{
-		"isLoggedIn": false,
-		"userName": "Alice",
+		"isLoggedIn": true,
+		"userName": "Mary",
 		"role":"bride",
 		"bridesmaid_isDressOrdered":false,
 		"bride_isBridalSuiteFinished":false,
